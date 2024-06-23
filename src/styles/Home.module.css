@@ -5,6 +5,41 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.pageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  row-gap: 1rem;
+}
+
+.mainLogotype {
+  font-weight: bold;
+  font-size: 7rem;
+  text-align: center;
+}
+
+.slogan {
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.contentContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 5rem;
+  width: 100vw;
+}
+
+.itemStyle {
+  height: 15rem;
+  max-height: 15rem;
+  background-color: white;
 }
 
 .description {
