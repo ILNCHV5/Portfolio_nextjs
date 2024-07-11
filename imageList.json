@@ -1,13 +1,23 @@
-{
-  "images": [
-    {
-      "id": 1,
-      "coverImage": "/images/first/chisens1.png",
-      "description": "",
-      "media": [
-        { "id": 1, "src": "/images/first/chisense1.png" },
-        { "id": 2, "src": "/images/first/chisense2.png" }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "coverImage": "/images/first/chisens1.png",
+    "title": "Chi Sense logo",
+    "description": "In late 2018 the municipality of Gabrovo in central Bulgaria issued a contest to design a logo that will represent the city within UNESCO's Creative cities network. Me and my friend and colleague Hristo Hristov ended up winning amongst nearly 400 other designs. The swirling graphic symbol was designed by him, while i created the custom typography/font that matches in both latin and cyrillic. Our combined efforts netted us the prize, and the honor of having designed something that is to be used in conjunction with the UNESCO logo. \n Note: We did NOT design UNESCO's logo and our design sits on the right of the dotted line.",
+    "slug": "chi_sense",
+    "media": [
+      { "id": 1, "src": "/images/first/chisense1.png" },
+      { "id": 2, "src": "/images/first/chisense2.png" }
+    ]
+  },
+  {
+    "id": 2,
+    "coverImage": "/images/first/chisens1.png",
+    "description": "",
+    "slug": "chi_sensei",
+    "media": [
+      { "id": 1, "src": "/images/first/chisense1.png" },
+      { "id": 2, "src": "/images/first/chisense2.png" }
+    ]
+  }
+]
