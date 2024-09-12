@@ -19,5 +19,25 @@
       { "id": 1, "src": "/images/first/chisense1.png" },
       { "id": 2, "src": "/images/first/chisense2.png" }
     ]
+  },
+  {
+    "id": 3,
+    "coverImage": "/images/first/chisens1.png",
+    "description": "",
+    "slug": "chi_sensei",
+    "media": [
+      { "id": 1, "src": "/images/first/chisense1.png" },
+      { "id": 2, "src": "/images/first/chisense2.png" }
+    ]
+  },
+  {
+    "id": 4,
+    "coverImage": "/images/first/chisens1.png",
+    "description": "",
+    "slug": "chi_sensei",
+    "media": [
+      { "id": 1, "src": "/images/first/chisense1.png" },
+      { "id": 2, "src": "/images/first/chisense2.png" }
+    ]
   }
 ]

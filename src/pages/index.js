@@ -4,6 +4,8 @@ import { Inter, Dancing_Script } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import { Box, Typography } from "@mui/material";
 import images from "/imageList.json";
+import feedbackList from "/commentsList.json";
+import FeedbackContainer from "../../public/components/FeedbackContainer/FeedbackContainer";
 
 const inter = Inter({ subsets: ["latin"] });
 const dancingScript = Dancing_Script({
@@ -27,32 +29,35 @@ export default function Home() {
         />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-        <Box className={styles.pageContainer}>
-          <Typography
-            className={`${styles.mainLogotype} ${dancingScript.className}`}
-          >
-            Iliyan Nachev
-          </Typography>
-          <Typography className={`${styles.slogan} ${inter.className}`}>
-            LOGO & BRAND DESIGN | TYPE DESIGN | ICON DESIGN
-          </Typography>
-          <Box className={styles.contentContainer}>
-            {images.map((image) => (
-              <Link key={image.id} href={`/${image.slug}`}>
-                <Box
-                  sx={{
-                    backgroundImage: `url(${image.coverImage})`,
-                    backgroundSize: "cover",
-                    backgroundPosition: "center",
-                    backgroundColor: "white",
-                    width: "20rem",
-                    height: "15rem",
-                    cursor: "pointer",
-                  }}
-                />
-              </Link>
-            ))}
+        <Box className={styles.layout}>
+          <Box className={styles.pageContainer}>
+            <Typography
+              className={`${styles.mainLogotype} ${dancingScript.className}`}
+            >
+              Iliyan Nachev
+            </Typography>
+            <Typography className={`${styles.slogan} ${inter.className}`}>
+              LOGO & BRAND DESIGN | TYPE DESIGN | ICON DESIGN
+            </Typography>
+            <Box className={styles.contentContainer}>
+              {images.map((image) => (
+                <Link key={image.id} href={`/${image.slug}`}>
+                  <Box
+                    sx={{
+                      backgroundImage: `url(${image.coverImage})`,
+                      backgroundSize: "cover",
+                      backgroundPosition: "center",
+                      backgroundColor: "white",
+                      width: "20rem",
+                      height: "15rem",
+                      cursor: "pointer",
+                    }}
+                  />
+                </Link>
+              ))}
+            </Box>
           </Box>
+          <FeedbackContainer feedbackList={feedbackList} />
         </Box>
       </main>
     </>

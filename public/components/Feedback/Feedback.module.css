@@ -1,6 +1,16 @@
 .container {
+  max-width: 27vw;
 }
 .comment {
+  font-size: 0.9rem;
 }
 .signature {
+  padding-top: 1.5rem;
+  text-align: right;
+  font-style: italic;
+}
+@media (max-width: 750px) {
+  .container {
+    max-width: none;
+  }
 }
