@@ -1,11 +1,16 @@
 .main {
+  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
   min-height: 100vh;
   box-sizing: border-box;
+}
+.main * {
+  font-family: "Inter";
 }
 .layout {
   display: flex;
@@ -20,18 +25,21 @@
   align-items: center;
   row-gap: 1rem;
 }
-
 .mainLogotype {
+  font-family: "Dancing Script";
   font-weight: bold;
   font-size: 7rem;
   text-align: center;
+  padding-top: 4rem;
+  transition: transform 0.3s ease;
 }
-
+.mainLogotype:hover {
+  transform: scale(1.04);
+}
 .slogan {
   font-size: 1.1rem;
   text-align: center;
 }
-
 .contentContainer {
   display: flex;
   flex-direction: row;
@@ -40,11 +48,17 @@
   padding-top: 5rem;
   width: 100vw;
 }
-
-.itemStyle {
-  height: 23rem;
-  max-height: 23rem;
+.item {
+  background-size: cover;
+  background-position: center;
   background-color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease, border-radius 0.3s ease, box-shadow 0.3s ease;
+}
+.item:hover {
+  transform: scale(1.05);
+  border-radius: 10px;
+  box-shadow: inset 0 0 50px 25px rgba(0, 0, 0, 0.1);
 }
 
 .description {
