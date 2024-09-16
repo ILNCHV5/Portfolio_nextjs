@@ -28,10 +28,16 @@ export default function Home() {
         <Box className={styles.layout}>
           <Box className={styles.pageContainer}>
             <Header />
-            <Typography className={styles.mainLogotype}>
+            <Typography
+              className={styles.mainLogotype}
+              sx={{ fontSize: { xs: "3.5rem", sm: "5rem", md: "7rem" } }}
+            >
               Iliyan Nachev
             </Typography>
-            <Typography className={styles.slogan}>
+            <Typography
+              className={styles.slogan}
+              sx={{ fontSize: { xs: "0.7rem", sm: "0.9rem", md: "1.1rem" } }}
+            >
               BRAND DESIGN | TYPE DESIGN | WEB DESIGN
             </Typography>
             <Box className={styles.contentContainer}>

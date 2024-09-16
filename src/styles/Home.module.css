@@ -28,7 +28,6 @@
 .mainLogotype {
   font-family: "Dancing Script";
   font-weight: bold;
-  font-size: 7rem;
   text-align: center;
   padding-top: 4rem;
   transition: transform 0.3s ease;
@@ -37,7 +36,6 @@
   transform: scale(1.04);
 }
 .slogan {
-  font-size: 1.1rem;
   text-align: center;
 }
 .contentContainer {

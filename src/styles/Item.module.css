@@ -59,3 +59,10 @@
 .button:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
+
+@media (max-width: 900px) {
+  .imageContainer {
+    margin-bottom: 0rem;
+    border-radius: 0px;
+  }
+}
