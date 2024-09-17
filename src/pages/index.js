@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Link from "next/link";
 import styles from "@/styles/Home.module.css";
 import { Box, Typography } from "@mui/material";
 import images from "/imageList.json";
@@ -8,6 +7,7 @@ import FeedbackContainer from "../../public/components/FeedbackContainer/Feedbac
 import Header from "../../public/components/Header/Header";
 import Footer from "../../public/components/Footer/Footer";
 import VideoBackground from "../../public/components/VideoBackground/VideoBackground";
+import Gallery from "../../public/components/Gallery/Gallery";
 
 export default function Home() {
   return (
@@ -40,20 +40,7 @@ export default function Home() {
             >
               BRAND DESIGN | TYPE DESIGN | WEB DESIGN
             </Typography>
-            <Box className={styles.contentContainer}>
-              {images.map((image) => (
-                <Link key={image.id} href={`/${image.slug}`} alt={image.slug}>
-                  <Box
-                    className={styles.item}
-                    sx={{
-                      backgroundImage: `url(${image.coverImage})`,
-                      width: { xs: "100vw", sm: "50vw", md: "33vw" },
-                      height: { xs: "66vw", sm: "33vw", md: "21vw" },
-                    }}
-                  />
-                </Link>
-              ))}
-            </Box>
+            <Gallery images={images} />
           </Box>
           <FeedbackContainer feedbackList={feedbackList} />
         </Box>
