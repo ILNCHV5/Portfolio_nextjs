@@ -50,7 +50,6 @@ const ItemPage = ({ image }) => {
             className={styles.image}
             src={mediaItem.src}
             alt={mediaItem.id}
-            // style={{ maxHeight: 900, margin: 0, padding: 0 }}
           />
         </Box>
       ))}
