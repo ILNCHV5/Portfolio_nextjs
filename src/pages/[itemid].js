@@ -2,6 +2,7 @@ import { Box, Typography, Button } from "@mui/material";
 import Link from "next/link";
 import styles from "@/styles/Item.module.css";
 import images from "/imageList.json";
+import Head from "next/head";
 import Header from "../../public/components/Header/Header";
 import Footer from "../../public/components/Footer/Footer";
 import VideoBackground from "../../public/components/VideoBackground/VideoBackground";
@@ -24,6 +25,9 @@ const ItemPage = ({ image }) => {
       className={styles.container}
       sx={{ maxWidth: { md: "70%", lg: "60%" }, mx: "auto" }}
     >
+      <Head>
+        <title>{title} - I. Nachev </title>
+      </Head>
       <Header />
       <Box
         className={styles.typeContainer}
@@ -38,14 +42,15 @@ const ItemPage = ({ image }) => {
         <Typography className={styles.typography}>{description}</Typography>
       </Box>
       <Box className={styles.imageContainer}>
-        <img src={coverImage} alt="Cover" style={{ width: "100%" }} />
+        <img className={styles.image} src={coverImage} alt="Cover" />
       </Box>
       {media.map((mediaItem) => (
         <Box key={mediaItem.id} className={styles.imageContainer}>
           <img
+            className={styles.image}
             src={mediaItem.src}
             alt={mediaItem.id}
-            style={{ width: "100%", margin: 0, padding: 0 }}
+            // style={{ maxHeight: 900, margin: 0, padding: 0 }}
           />
         </Box>
       ))}

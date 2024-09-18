@@ -1,5 +1,6 @@
 import React from "react";
 import { Box, Typography, Link, Button } from "@mui/material";
+import Head from "next/head";
 import Header from "../../public/components/Header/Header";
 import Footer from "../../public/components/Footer/Footer";
 import VideoBackground from "../../public/components/VideoBackground/VideoBackground";
@@ -9,6 +10,9 @@ import styles from "@/styles/Contacts.module.css";
 const Contacts = () => {
   return (
     <Box className={styles.container}>
+      <Head>
+        <title>Contacts - I. Nachev </title>
+      </Head>
       <Header />
       <Box className={styles.textBox}>
         <Typography>Get in touch with me:</Typography>
