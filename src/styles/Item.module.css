@@ -9,6 +9,7 @@
 }
 .container * {
   font-family: "Inter";
+  color: white;
 }
 .title {
   font-size: 1.3rem;

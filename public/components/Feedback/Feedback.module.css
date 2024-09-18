@@ -1,6 +1,9 @@
 .container {
   max-width: 27vw;
 }
+.container p {
+  color: white;
+}
 .comment {
   font-size: 0.9rem;
 }

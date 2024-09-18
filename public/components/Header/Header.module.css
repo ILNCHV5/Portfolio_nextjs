@@ -9,6 +9,7 @@
 .linkText {
   font-family: "Inter";
   transition: transform 0.3s ease;
+  color: white;
 }
 
 .linkText:hover {
