@@ -16,7 +16,15 @@ function VideoBackground() {
     <Box className={styles.videoBackground}>
       <Box className={styles.overlay} />
       {isMounted && (
-        <video ref={videoRef} autoPlay loop muted playsInline>
+        <video
+          ref={videoRef}
+          autoPlay
+          loop
+          muted
+          playsInline
+          disablePictureInPicture
+          style={{ pointerEvents: "none" }}
+        >
           <source src="/images/video/bgvideo.mp4" type="video/mp4" />
         </video>
       )}

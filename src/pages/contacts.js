@@ -30,7 +30,7 @@ const Contacts = () => {
           </Link>
         </Typography>
       </Box>
-      <Typography>OR</Typography>
+      <Typography className={styles.or}>OR</Typography>
       <Box
         component="form"
         action="https://formspree.io/f/mldrkzev"
