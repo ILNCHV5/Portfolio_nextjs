@@ -1,63 +1,404 @@
 [
   {
     "id": 1,
-    "coverImage": "/images/first/chisens1.webp",
-    "title": "Chi Sense logo",
-    "description": "In late 2018 the municipality of Gabrovo in central Bulgaria issued a contest to design a logo that will represent the city within UNESCO's Creative cities network. Me and my friend and colleague Hristo Hristov ended up winning amongst nearly 400 other designs. The swirling graphic symbol was designed by him, while i created the custom typography/font that matches in both latin and cyrillic. Our combined efforts netted us the prize, and the honor of having designed something that is to be used in conjunction with the UNESCO logo. \n Note: We did NOT design UNESCO's logo and our design sits on the right of the dotted line.",
-    "slug": "chi_sense",
+    "coverImage": "/images/1_bcause/1.webp",
+    "title": "BCause foundation rebranding",
+    "description": "The BCause Foundation is a leading charity organization with more than 25 years experience in promoting and supporting donation causes at national and international level. One of the founders of the DMS donation platform, their ecosystem also includes the Platform (Платформата) and the Rinker center. My design goal was to find a common symbolism and apply it to all three, as well as unify their visual aesthetics , so that they visually relate more closely to the foundation. Designs are in the process of implementation.",
+    "slug": "bcause",
     "media": [
-      { "id": 1, "src": "/images/first/chisense1.png" },
-      { "id": 2, "src": "/images/first/chisense2.png" }
+      { "id": 1, "src": "/images/1_bcause/2.webp" },
+      { "id": 2, "src": "/images/1_bcause/3.webp" },
+      { "id": 3, "src": "/images/1_bcause/4.webp" },
+      { "id": 4, "src": "/images/1_bcause/5.webp" },
+      { "id": 5, "src": "/images/1_bcause/6.webp" },
+      { "id": 6, "src": "/images/1_bcause/7.webp" }
     ]
   },
   {
     "id": 2,
-    "coverImage": "/images/first/chisens1.webp",
-    "description": "",
-    "slug": "chi_sensei",
+    "coverImage": "/images/2_gabrovo_tourism_brand/1.webp",
+    "title": "City of Gabrovo tourism brand",
+    "description": "In late 2018 the municipality of Gabrovo in central Bulgaria issued a contest to design a logo that will represent the city within UNESCO's Creative cities network. Me and my friend and colleague Hristo Hristov ended up winning amongst nearly 400 other designs. The swirling graphic symbol was designed by him, while i created the custom typography/font that matches in both latin and cyrillic. Our combined efforts netted us the prize, and the honor of having designed something that is to be used in conjunction with the UNESCO logo.",
+    "slug": "gabrovo_tourism_brand",
     "media": [
-      { "id": 1, "src": "/images/first/chisense1.png" },
-      { "id": 2, "src": "/images/first/chisense2.png" }
+      { "id": 1, "src": "/images/2_gabrovo_tourism_brand/2.webp" },
+      { "id": 2, "src": "/images/2_gabrovo_tourism_brand/3.webp" },
+      { "id": 3, "src": "/images/2_gabrovo_tourism_brand/4.webp" },
+      { "id": 4, "src": "/images/2_gabrovo_tourism_brand/5.webp" },
+      { "id": 5, "src": "/images/2_gabrovo_tourism_brand/6.webp" },
+      { "id": 6, "src": "/images/2_gabrovo_tourism_brand/7.webp" },
+      { "id": 7, "src": "/images/2_gabrovo_tourism_brand/8.webp" },
+      { "id": 8, "src": "/images/2_gabrovo_tourism_brand/9.webp" }
     ]
   },
   {
     "id": 3,
-    "coverImage": "/images/first/chisens1.webp",
-    "description": "",
-    "slug": "chi_sensei",
+    "coverImage": "/images/3_parkmaxx/1.webp",
+    "title": "Parkmaxx retail park",
+    "description": "Parkmaxx retail park is projected to be the largest space of its kind in the city of Plovdiv, and one of the largest in Bulgaria overall. The park representatives issued a design contest in spring 2024, which i participated in and subsequently won. The design itself represents a stylized shopping tag, encapsulating a clean cut logotype. Since the object is still under construction the logo and subsequent brand collateral await implementation.",
+    "slug": "parkmaxx",
     "media": [
-      { "id": 1, "src": "/images/first/chisense1.png" },
-      { "id": 2, "src": "/images/first/chisense2.png" }
+      { "id": 1, "src": "/images/3_parkmaxx/2.webp" },
+      { "id": 2, "src": "/images/3_parkmaxx/3.webp" },
+      { "id": 3, "src": "/images/3_parkmaxx/4.webp" },
+      { "id": 4, "src": "/images/3_parkmaxx/5.webp" },
+      { "id": 5, "src": "/images/3_parkmaxx/6.webp" },
+      { "id": 6, "src": "/images/3_parkmaxx/7.webp" }
     ]
   },
   {
     "id": 4,
-    "coverImage": "/images/first/chisens1.webp",
-    "description": "",
-    "slug": "chi_sensei",
+    "coverImage": "/images/4_alleval_typeface/1.webp",
+    "title": "Alleval text typeface",
+    "description": "Alleval is a serif typeface intended for text usage and long paragraphs. The object of its low contrast and wide apertures is to protect the reader from eye strain and to imbue an aged feeling to the text. Based on classical Renaissance examples, it is particularly appropriate for texts which might benefit from a subtle historical feel to them, or for literature genres such as fantasy.",
+    "slug": "alleval_typeface",
     "media": [
-      { "id": 1, "src": "/images/first/chisense1.png" },
-      { "id": 2, "src": "/images/first/chisense2.png" }
+      { "id": 1, "src": "/images/4_alleval_typeface/2.webp" },
+      { "id": 2, "src": "/images/4_alleval_typeface/3.webp" },
+      { "id": 3, "src": "/images/4_alleval_typeface/4.webp" },
+      { "id": 4, "src": "/images/4_alleval_typeface/5.webp" },
+      { "id": 5, "src": "/images/4_alleval_typeface/6.webp" },
+      { "id": 6, "src": "/images/4_alleval_typeface/7.webp" },
+      { "id": 7, "src": "/images/4_alleval_typeface/8.webp" },
+      { "id": 8, "src": "/images/4_alleval_typeface/9.webp" },
+      { "id": 9, "src": "/images/4_alleval_typeface/10.webp" },
+      { "id": 10, "src": "/images/4_alleval_typeface/11.webp" },
+      { "id": 11, "src": "/images/4_alleval_typeface/12.webp" },
+      { "id": 12, "src": "/images/4_alleval_typeface/13.webp" },
+      { "id": 13, "src": "/images/4_alleval_typeface/14.webp" }
     ]
   },
   {
     "id": 5,
-    "coverImage": "/images/first/chisens1.webp",
-    "description": "",
-    "slug": "chi_sensei",
+    "coverImage": "/images/5_fonax_icon_pack/1.webp",
+    "title": "Fonax icon pack",
+    "description": "Fonax is a brand who deals in mobile accessories and peripherals. I was hired to create an icon pack for them, representing some of their product classes and other visuals that were needed for their overall store design. The icons are being used in their stores in major bulgarian cities.",
+    "slug": "fonax_icon_pack",
     "media": [
-      { "id": 1, "src": "/images/first/chisense1.png" },
-      { "id": 2, "src": "/images/first/chisense2.png" }
+      { "id": 1, "src": "/images/5_fonax_icon_pack/2.webp" },
+      { "id": 2, "src": "/images/5_fonax_icon_pack/3.webp" },
+      { "id": 3, "src": "/images/5_fonax_icon_pack/4.webp" },
+      { "id": 4, "src": "/images/5_fonax_icon_pack/5.webp" }
     ]
   },
   {
     "id": 6,
-    "coverImage": "/images/first/chisens1.webp",
-    "description": "",
-    "slug": "chi_sensei",
+    "coverImage": "/images/6_city_rivers_poster/1.webp",
+    "title": "Rivers of the City Sofia poster",
+    "description": "Rivers of the City is an annual festival, accenting on the integration of rivers in various parts of city life. The 2024 edition in Sofia had a poster design contest, themed around city rivers in 2050. My proposal, showcasing the waterways as a form of bonding agent for city spaces(reminiscent of the japanese gold ceramics restoration technique - Kintsugi) ended up winning me participation in the final exhibition at the event.",
+    "slug": "city_rivers_poster",
     "media": [
-      { "id": 1, "src": "/images/first/chisense1.png" },
-      { "id": 2, "src": "/images/first/chisense2.png" }
+      { "id": 1, "src": "/images/6_city_rivers_poster/2.webp" },
+      { "id": 2, "src": "/images/6_city_rivers_poster/3.webp" }
+    ]
+  },
+  {
+    "id": 7,
+    "coverImage": "/images/7_charshia_platform/1.webp",
+    "title": "Charshia platform brand/web design",
+    "description": "Charshia was the first bulgarian platform, specializing in the promotion of traditional crafts, education in that regard, as well as offering a chance for craftsmen to put their goods up for purchase. My involvement as a designer with the project consisted of mapping out how the platform is going to function, designing all the UI/UX elements of it, as well as developing the brand, which features a logotype that is custom made for the project in both cyrillic and latin. Also included are some promotional materials, such as stylized hero images for the articles on the platform and illustrations for Instagram usage.",
+    "slug": "charshia_platform",
+    "media": [
+      { "id": 1, "src": "/images/7_charshia_platform/2.webp" },
+      { "id": 2, "src": "/images/7_charshia_platform/3.webp" },
+      { "id": 3, "src": "/images/7_charshia_platform/4.webp" },
+      { "id": 4, "src": "/images/7_charshia_platform/5.webp" },
+      { "id": 5, "src": "/images/7_charshia_platform/6.webp" },
+      { "id": 6, "src": "/images/7_charshia_platform/7.webp" },
+      { "id": 7, "src": "/images/7_charshia_platform/8.webp" },
+      { "id": 8, "src": "/images/7_charshia_platform/9.webp" }
+    ]
+  },
+  {
+    "id": 8,
+    "coverImage": "/images/8_bcf/1.webp",
+    "title": "Bulgarian Cycling Federation proposal",
+    "description": "A concept for the Bulgarian Cycling Federation's logo open call. The symbol is legible and self-explanatory and its main function is to encase the abbreviation of the organization within it. Displayed is the design's wide range of usability on all sorts of materials.",
+    "slug": "bcf",
+    "media": [
+      { "id": 1, "src": "/images/8_bcf/2.webp" },
+      { "id": 2, "src": "/images/8_bcf/3.webp" },
+      { "id": 3, "src": "/images/8_bcf/4.webp" },
+      { "id": 4, "src": "/images/8_bcf/5.webp" },
+      { "id": 5, "src": "/images/8_bcf/6.webp" },
+      { "id": 6, "src": "/images/8_bcf/7.webp" },
+      { "id": 7, "src": "/images/8_bcf/8.webp" },
+      { "id": 8, "src": "/images/8_bcf/9.webp" },
+      { "id": 9, "src": "/images/8_bcf/10.webp" },
+      { "id": 10, "src": "/images/8_bcf/11.webp" },
+      { "id": 11, "src": "/images/8_bcf/12.webp" },
+      { "id": 12, "src": "/images/8_bcf/13.webp" },
+      { "id": 13, "src": "/images/8_bcf/14.webp" },
+      { "id": 14, "src": "/images/8_bcf/15.webp" }
+    ]
+  },
+  {
+    "id": 9,
+    "coverImage": "/images/9_sliven_tourism_brand/1.webp",
+    "title": "City of Sliven tourism brand runner up",
+    "description": "The Sliven municipality in Bulgaria issued a contest for a tourism logo, representing the city's natural resources and historical heritage. My concept included the famous stone landmark 'Halkata'(The ring), a stylized portrait of national hero Hadzhi Dimitar, as well as a centerpiece of the city clock. The typography is stylized to be in sync with the image above it, as well as staying consistent between the cyrillic and latin versions. My efforts in this granted me the privilege of being the runner up in the said contest.",
+    "slug": "sliven tourism_brand",
+    "media": [
+      { "id": 1, "src": "/images/9_sliven_tourism_brand/2.webp" },
+      { "id": 2, "src": "/images/9_sliven_tourism_brand/3.webp" },
+      { "id": 3, "src": "/images/9_sliven_tourism_brand/4.webp" },
+      { "id": 4, "src": "/images/9_sliven_tourism_brand/5.webp" },
+      { "id": 5, "src": "/images/9_sliven_tourism_brand/6.webp" },
+      { "id": 6, "src": "/images/9_sliven_tourism_brand/7.webp" },
+      { "id": 7, "src": "/images/9_sliven_tourism_brand/8.webp" },
+      { "id": 8, "src": "/images/9_sliven_tourism_brand/9.webp" }
+    ]
+  },
+  {
+    "id": 10,
+    "coverImage": "/images/10_dk_hand/1.webp",
+    "title": "DK hand - single line CNC font",
+    "description": "One of the few single line fonts (or possibly the only one), adapted for usage in bulgarian, this project was issued to me because no other of the sort existed at that point. The end goal was to have a typeface that can be used by a CNC machine(with a pen attachment) to simulate real world human writing, with its imperfections and quirks. The font itself is a stylized version of my own handwriting, but it also features various ornamental letters, as well as stylistic alternates for the lowercase ones.",
+    "slug": "dk_hand",
+    "media": [
+      { "id": 1, "src": "/images/10_dk_hand/2.webp" },
+      { "id": 2, "src": "/images/10_dk_hand/3.webp" },
+      { "id": 3, "src": "/images/10_dk_hand/4.webp" },
+      { "id": 4, "src": "/images/10_dk_hand/5.webp" }
+    ]
+  },
+  {
+    "id": 11,
+    "coverImage": "/images/11_lighthouse/1.webp",
+    "title": "Lighthouse photography",
+    "description": "A logo design (preceeded by naming) for a photography business. The owners had started their photography journey shooting around their hometown's lighthouse, so the symbollism with using light in the design had a double meaning.",
+    "slug": "lighthouse",
+    "media": [
+      { "id": 1, "src": "/images/11_lighthouse/2.webp" },
+      { "id": 2, "src": "/images/11_lighthouse/3.webp" },
+      { "id": 3, "src": "/images/11_lighthouse/4.webp" }
+    ]
+  },
+  {
+    "id": 12,
+    "coverImage": "/images/12_shumensko_poster/1.webp",
+    "title": "Shumensko beer contest poster",
+    "description": "The '50 years of the Bombling' poster was created for Shumensko pivo, one of the largest Bulgarian beer breweries, as part of a competition, during their promotional campaign, celebrating 50 years since the introduction of their signature 'Bombling' bottle. The poster was selected as one of the winners of the competiton, and was featured in one of the exhibitions during the 2016 edition of the city of Plovdiv's ONE Design week. It is also featured on a promotional callendar for 2017, alongside the other selected contestants. As per the requirements of the competition the poster is reminiscent of the 60's and 70's bulgarian posters, and has a sea theme in the background.",
+    "slug": "shumensko_poster",
+    "media": [
+      { "id": 1, "src": "/images/12_shumensko_poster/2.webp" },
+      { "id": 2, "src": "/images/12_shumensko_poster/3.webp" }
+    ]
+  },
+  {
+    "id": 13,
+    "coverImage": "/images/13_construction_icon_pack/1.webp",
+    "title": "Construction app iconography",
+    "description": "A series of four icon packs that were issued to me on a yearly basis by a client in the US. They were ultimately used in an app that regulates construction sites and processes. Every icon is modeled on a real life piece of machinery or equipment.",
+    "slug": "construction_icon_pack",
+    "media": [
+      { "id": 1, "src": "/images/13_construction_icon_pack/2.webp" },
+      { "id": 2, "src": "/images/13_construction_icon_pack/3.webp" },
+      { "id": 3, "src": "/images/13_construction_icon_pack/4.webp" },
+      { "id": 4, "src": "/images/13_construction_icon_pack/5.webp" },
+      { "id": 5, "src": "/images/13_construction_icon_pack/6.webp" },
+      { "id": 6, "src": "/images/13_construction_icon_pack/7.webp" },
+      { "id": 7, "src": "/images/13_construction_icon_pack/8.webp" }
+    ]
+  },
+  {
+    "id": 14,
+    "coverImage": "/images/14_smart_camping/1.webp",
+    "title": "Smart Camping frontend & web design",
+    "description": "A frontend project that i built in Next.js for the purposes of showcasing the pricing page, which i had built for another website as part of my work. The project evolved into a fully responsive prototype for a camping gear website.",
+    "slug": "smart_camping",
+    "media": [
+      { "id": 1, "src": "/images/14_smart_camping/2.webp" },
+      { "id": 2, "src": "/images/14_smart_camping/3.webp" },
+      { "id": 3, "src": "/images/14_smart_camping/4.webp" },
+      { "id": 4, "src": "/images/14_smart_camping/5.webp" },
+      { "id": 5, "src": "/images/14_smart_camping/6.webp" }
+    ]
+  },
+  {
+    "id": 15,
+    "coverImage": "/images/15_varna_tourism_logo/1.webp",
+    "title": "Varna - 100 years of tourism proposal",
+    "description": "A concept for a design contest, celebrating 100 years of tourism in Varna, Bulgaria. I incorporated the feel of the city in literal as well as non-literal ways, and combined it with strong typography to serve as a background and information carrier. The design netted me the third place in the contest.",
+    "slug": "varna_tourism_logo",
+    "media": [
+      { "id": 1, "src": "/images/15_varna_tourism_logo/2.webp" },
+      { "id": 2, "src": "/images/15_varna_tourism_logo/3.webp" },
+      { "id": 3, "src": "/images/15_varna_tourism_logo/4.webp" },
+      { "id": 4, "src": "/images/15_varna_tourism_logo/5.webp" },
+      { "id": 5, "src": "/images/15_varna_tourism_logo/6.webp" },
+      { "id": 6, "src": "/images/15_varna_tourism_logo/7.webp" }
+    ]
+  },
+  {
+    "id": 16,
+    "coverImage": "/images/16_gabrovo_carnival/1.webp",
+    "title": "Gabrovo carnival logo proposal",
+    "description": "A concept for the city of Gabrovo's annual carnival. It integrates its main symbol/mascot with the signature scissors from the urban tale.",
+    "slug": "gabrovo_carnival",
+    "media": [
+      { "id": 1, "src": "/images/16_gabrovo_carnival/2.webp" },
+      { "id": 2, "src": "/images/16_gabrovo_carnival/3.webp" },
+      { "id": 3, "src": "/images/16_gabrovo_carnival/4.webp" }
+    ]
+  },
+  {
+    "id": 17,
+    "coverImage": "/images/17_burgas_tourism_brand/1.webp",
+    "title": "City of Burgas tourism brand proposal",
+    "description": "Design concept for the tourism logo/brand of the city of Burgas. It features a stylized version of the bulgarian letter 'b', with famous city landmark - the Gramophone integrated into the negative space, and a sea waves/sun pattern theme. Also featured are some possible implementations.",
+    "slug": "burgas_tourism_brand",
+    "media": [
+      { "id": 1, "src": "/images/17_burgas_tourism_brand/2.webp" },
+      { "id": 2, "src": "/images/17_burgas_tourism_brand/3.webp" },
+      { "id": 3, "src": "/images/17_burgas_tourism_brand/4.webp" },
+      { "id": 4, "src": "/images/17_burgas_tourism_brand/5.webp" },
+      { "id": 5, "src": "/images/17_burgas_tourism_brand/6.webp" },
+      { "id": 6, "src": "/images/17_burgas_tourism_brand/7.webp" },
+      { "id": 7, "src": "/images/17_burgas_tourism_brand/8.webp" }
+    ]
+  },
+  {
+    "id": 18,
+    "coverImage": "/images/18_contestic/1.webp",
+    "title": "Contestic - freelance platform brand/app design",
+    "description": "Contestic was an idea in development for an open access freelance services application. My role in its creation was to map out the page flows, do research and design UX/UI elements, as well as create a name and develop a solid brand around it. Displayed are a few of the pages, as well as the logo design, which features custom made typography.",
+    "slug": "contestic",
+    "media": [
+      { "id": 1, "src": "/images/18_contestic/2.webp" },
+      { "id": 2, "src": "/images/18_contestic/3.webp" },
+      { "id": 3, "src": "/images/18_contestic/4.webp" },
+      { "id": 4, "src": "/images/18_contestic/5.webp" },
+      { "id": 5, "src": "/images/18_contestic/6.webp" },
+      { "id": 6, "src": "/images/18_contestic/7.webp" }
+    ]
+  },
+  {
+    "id": 19,
+    "coverImage": "/images/19_bigger_than_me/1.webp",
+    "title": "Bigger than Me - logo/brand design",
+    "description": "A design that i did for Bigger than Me. Naturally i used the wording leverage in the name and translated it to a visual medium.",
+    "slug": "bigger_than_me",
+    "media": [
+      { "id": 1, "src": "/images/19_bigger_than_me/2.webp" },
+      { "id": 2, "src": "/images/19_bigger_than_me/3.webp" },
+      { "id": 3, "src": "/images/19_bigger_than_me/4.webp" }
+    ]
+  },
+  {
+    "id": 20,
+    "coverImage": "/images/20_restart_jazz/1.webp",
+    "title": "2021 Montreux jazz festival contest entry",
+    "description": "A concept for the titular festival in Switzerland, whose topic was its reinstitution after the Covid19 pandemic. Restart.",
+    "slug": "restart_jazz",
+    "media": [{ "id": 1, "src": "/images/20_restart_jazz/2.webp" }]
+  },
+  {
+    "id": 21,
+    "coverImage": "/images/21_moega/1.webp",
+    "title": "Interior design agency logo/brand design",
+    "description": "Moega(meaning 'nest' in samoan) is an interior design brand that required a clean, legible design that can be used both in standard use cases and as a clear cut watermark. That is just what i did by creating custom lettering for a clean and concise logotype.",
+    "slug": "moega",
+    "media": [
+      { "id": 1, "src": "/images/21_moega/2.webp" },
+      { "id": 2, "src": "/images/21_moega/3.webp" },
+      { "id": 3, "src": "/images/21_moega/4.webp" },
+      { "id": 4, "src": "/images/21_moega/5.webp" },
+      { "id": 5, "src": "/images/21_moega/6.webp" }
+    ]
+  },
+  {
+    "id": 22,
+    "coverImage": "/images/22_poetry_booklet/1.webp",
+    "title": "Poetry booklet concept",
+    "description": "A project that was given to me during my bachelor's degree course, 'Eleven attempts at definition' is a short poetry collection by author Georgi Gospodinov, with my task being to combine the text with fitting imagery, that is in relation with the meaning of each verse. It can be very loosely interpreted, so creative freedom was a given here. The leaves were collected at a local forest, scanned and retouched to achieve visual unification. Floral elements are present in the design to further strenghthen the theme. In the end the booklet was cut and hand-stitched together to form a nice looking custom item.",
+    "slug": "poetry_booklet",
+    "media": [
+      { "id": 1, "src": "/images/22_poetry_booklet/2.webp" },
+      { "id": 2, "src": "/images/22_poetry_booklet/3.webp" },
+      { "id": 3, "src": "/images/22_poetry_booklet/4.webp" },
+      { "id": 4, "src": "/images/22_poetry_booklet/5.webp" },
+      { "id": 5, "src": "/images/22_poetry_booklet/6.webp" },
+      { "id": 6, "src": "/images/22_poetry_booklet/7.webp" },
+      { "id": 7, "src": "/images/22_poetry_booklet/8.webp" },
+      { "id": 8, "src": "/images/22_poetry_booklet/9.webp" },
+      { "id": 9, "src": "/images/22_poetry_booklet/10.webp" },
+      { "id": 10, "src": "/images/22_poetry_booklet/11.webp" },
+      { "id": 11, "src": "/images/22_poetry_booklet/12.webp" },
+      { "id": 12, "src": "/images/22_poetry_booklet/13.webp" },
+      { "id": 13, "src": "/images/22_poetry_booklet/14.webp" }
+    ]
+  },
+  {
+    "id": 23,
+    "coverImage": "/images/23_tbd/1.webp",
+    "title": "Thriving by Design logo/brand design",
+    "description": "Branding and collateral materials that i designed for a coaching business client.",
+    "slug": "tbd",
+    "media": [
+      { "id": 1, "src": "/images/23_tbd/2.webp" },
+      { "id": 2, "src": "/images/23_tbd/3.webp" },
+      { "id": 3, "src": "/images/23_tbd/4.webp" },
+      { "id": 4, "src": "/images/23_tbd/5.webp" },
+      { "id": 5, "src": "/images/23_tbd/6.webp" },
+      { "id": 6, "src": "/images/23_tbd/7.webp" }
+    ]
+  },
+  {
+    "id": 24,
+    "coverImage": "/images/24_lesser_kestrel_logo/1.webp",
+    "title": "Wildlife conservation contest entry",
+    "description": "A concept for a campaign for the conservation of the Lesser kestrel (Falco naumanni) in the Sakar region of Bulgaria. As a wildlife photographer this project combined two of my main interests and allowed me to try and help out a good cause.",
+    "slug": "lesser_kestrel_logo",
+    "media": [
+      { "id": 1, "src": "/images/24_lesser_kestrel_logo/2.webp" },
+      { "id": 2, "src": "/images/24_lesser_kestrel_logo/3.webp" },
+      { "id": 3, "src": "/images/24_lesser_kestrel_logo/4.webp" },
+      { "id": 4, "src": "/images/24_lesser_kestrel_logo/5.webp" },
+      { "id": 5, "src": "/images/24_lesser_kestrel_logo/6.webp" }
+    ]
+  },
+  {
+    "id": 25,
+    "coverImage": "/images/25_plus_green/1.webp",
+    "title": "+Green vertical farming brand",
+    "description": "+Green is a vertical farming business, based in Saudi Arabia that grows crops and greens in a vertical manner in large warehouses, using hydroponics to water the plants. They hired me to create a logo and stationery set for their uses in 2020. The logo also features a version with additional arabic lettering for domestic use.",
+    "slug": "plus_green",
+    "media": [
+      { "id": 1, "src": "/images/25_plus_green/2.webp" },
+      { "id": 2, "src": "/images/25_plus_green/3.webp" },
+      { "id": 3, "src": "/images/25_plus_green/4.webp" },
+      { "id": 4, "src": "/images/25_plus_green/5.webp" },
+      { "id": 5, "src": "/images/25_plus_green/6.webp" },
+      { "id": 6, "src": "/images/25_plus_green/7.webp" }
+    ]
+  },
+  {
+    "id": 26,
+    "coverImage": "/images/26_time_for_nature/1.webp",
+    "title": "Ecology program contest logo/brand",
+    "description": "A logo design i made for the Regional Inspectorate of Environment and Water - Blagoevgrad's Time for Nature campaign that was aimed at teaching children more eco-friendly practices. The symbol is created by combining an hour clock silhouette with leaf shapes. The design finished in first place in the competition.",
+    "slug": "time_for_nature",
+    "media": [
+      { "id": 1, "src": "/images/26_time_for_nature/2.webp" },
+      { "id": 2, "src": "/images/26_time_for_nature/3.webp" },
+      { "id": 3, "src": "/images/26_time_for_nature/4.webp" },
+      { "id": 4, "src": "/images/26_time_for_nature/5.webp" },
+      { "id": 5, "src": "/images/26_time_for_nature/6.webp" },
+      { "id": 6, "src": "/images/26_time_for_nature/7.webp" },
+      { "id": 7, "src": "/images/26_time_for_nature/8.webp" }
+    ]
+  },
+  {
+    "id": 27,
+    "coverImage": "/images/27_chi_sense/1.webp",
+    "title": "Chi Sense logo/brand design",
+    "description": "Logo design for a local based business, dealing with the distribution and packaging of traditional chinese herbal products.",
+    "slug": "chi_sense",
+    "media": [
+      { "id": 1, "src": "/images/27_chi_sense/2.webp" },
+      { "id": 2, "src": "/images/27_chi_sense/3.webp" },
+      { "id": 3, "src": "/images/27_chi_sense/4.webp" }
     ]
   }
 ]
