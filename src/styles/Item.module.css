@@ -8,7 +8,7 @@
   padding-bottom: 1.5rem;
 }
 .container * {
-  font-family: "Inter";
+  font-family: "Montserrat", sans-serif;
   color: white;
 }
 .title {
@@ -30,7 +30,7 @@
   display: inline-block;
   max-width: 100%;
   height: auto;
-  margin-bottom: 0.9rem;
+  margin-bottom: 1.5rem;
   transition: transform 0.3s ease;
   overflow: hidden;
   border-radius: 20px;

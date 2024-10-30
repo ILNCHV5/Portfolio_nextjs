@@ -11,7 +11,7 @@ const Gallery = ({ images }) => {
             className={styles.item}
             sx={{
               backgroundImage: `url(${image.coverImage})`,
-              width: { xs: "100vw", sm: "50vw", md: "33vw" },
+              width: { xs: "100vw", sm: "50vw", md: "calc(100vw / 3)" },
               height: { xs: "66vw", sm: "33vw", md: "21vw" },
             }}
           />

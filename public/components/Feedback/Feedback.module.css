@@ -12,6 +12,7 @@
   text-align: right;
   font-style: italic;
   opacity: 0.5;
+  font-size: 0.9rem;
 }
 .container:hover .signature {
   color: white;

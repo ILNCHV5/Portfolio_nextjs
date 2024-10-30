@@ -6,6 +6,11 @@
   padding-top: 5rem;
   width: 100vw;
 }
+@media (max-width: 300px) {
+  .contentContainer {
+    padding-top: 2rem;
+  }
+}
 
 .item {
   background-size: cover;

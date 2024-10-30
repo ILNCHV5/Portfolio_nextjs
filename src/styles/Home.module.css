@@ -12,7 +12,7 @@
   width: 100%;
 }
 .main * {
-  font-family: "Inter";
+  font-family: "Montserrat", sans-serif;
 }
 .layout {
   display: flex;
@@ -38,7 +38,17 @@
 .mainLogotype:hover {
   transform: scale(1.04);
 }
-.slogan {
+.sloganContainer {
+  display: flex;
+  flex-direction: row;
+}
+@media (max-width: 300px) {
+  .sloganContainer {
+    flex-direction: column;
+    row-gap: 0.8rem;
+  }
+}
+.sloganText {
   text-align: center;
   color: white;
 }

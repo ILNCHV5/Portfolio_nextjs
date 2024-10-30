@@ -34,12 +34,21 @@ export default function Home() {
             >
               Iliyan Nachev
             </Typography>
-            <Typography
-              className={styles.slogan}
-              sx={{ fontSize: { xs: "0.7rem", sm: "0.9rem", md: "1.1rem" } }}
+            <Box
+              className={styles.sloganContainer}
+              sx={{
+                "& > .MuiTypography-root": {
+                  fontSize: { xs: "0.7rem", sm: "0.9rem", md: "1.1rem" },
+                },
+                columnGap: { xs: "0.7rem", md: "1.5rem", lg: "2.5rem" },
+              }}
             >
-              BRAND DESIGN | TYPE DESIGN | WEB DESIGN
-            </Typography>
+              <Typography className={styles.sloganText}>
+                BRAND DESIGN
+              </Typography>
+              <Typography className={styles.sloganText}>TYPE DESIGN</Typography>
+              <Typography className={styles.sloganText}>WEB DESIGN</Typography>
+            </Box>
             <Gallery images={images} />
           </Box>
           <FeedbackContainer feedbackList={feedbackList} />
