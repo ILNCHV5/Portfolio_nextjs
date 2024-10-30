@@ -51,6 +51,7 @@
   max-height: 88vh;
   padding: 0;
   margin: 0;
+  user-select: none;
 }
 
 .button {

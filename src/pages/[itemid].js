@@ -42,7 +42,12 @@ const ItemPage = ({ image }) => {
         <Typography className={styles.typography}>{description}</Typography>
       </Box>
       <Box className={styles.imageContainer}>
-        <img className={styles.image} src={coverImage} alt="Cover" />
+        <img
+          className={styles.image}
+          src={coverImage}
+          alt="Cover"
+          onContextMenu={(e) => e.preventDefault()}
+        />
       </Box>
       {media.map((mediaItem) => (
         <Box key={mediaItem.id} className={styles.imageContainer}>
@@ -50,6 +55,7 @@ const ItemPage = ({ image }) => {
             className={styles.image}
             src={mediaItem.src}
             alt={mediaItem.id}
+            onContextMenu={(e) => e.preventDefault()}
           />
         </Box>
       ))}
